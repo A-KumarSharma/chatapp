@@ -7,6 +7,8 @@ INTERFACE
 
 ![Screenshot 2024-10-26 1025466](https://github.com/user-attachments/assets/daf0c011-3ca8-40a8-af3a-d43adfe99b29)
 
+<!-- blackjack-area -->
+
 ## Dealer
 <div>
 
